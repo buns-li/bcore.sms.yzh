@@ -1,2 +1,3 @@
-# bcore.sms.yzh
-寄宿在bcore上的云之讯sms微服务
+# bcore.ucpass
+
+bcore微服务之ucpass(云之讯)通信服务
